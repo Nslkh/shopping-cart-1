@@ -1,0 +1,22 @@
+{
+    "products": [
+    {
+        "name": "Macbook",
+        "price": 1234,
+        "currency": "$",
+        "image_path": "images/macbook_pro_2020.jpg"
+    },
+    {
+        "name": "macbook Pro 2020",
+        "price": 1245,
+        "currency": "$",
+        "image_path": "images/macbook_pro_air.jpg"
+    },
+    {
+        "name": "Macbook Pro Air",
+        "price": 1683,
+        "currency": "$",
+        "image_path": "images/macbook_pro_2020.jpg"
+    }
+    ]
+}
